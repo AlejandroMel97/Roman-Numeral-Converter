@@ -1,0 +1,13 @@
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.csprojAssemblyReference.cache
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.AssemblyInfoInputs.cache
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.AssemblyInfo.cs
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\bin\Debug\netcoreapp3.1\RomanNumeralConverter.exe
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\bin\Debug\netcoreapp3.1\RomanNumeralConverter.deps.json
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\bin\Debug\netcoreapp3.1\RomanNumeralConverter.runtimeconfig.json
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\bin\Debug\netcoreapp3.1\RomanNumeralConverter.runtimeconfig.dev.json
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\bin\Debug\netcoreapp3.1\RomanNumeralConverter.dll
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\bin\Debug\netcoreapp3.1\RomanNumeralConverter.pdb
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.dll
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.pdb
+C:\Users\Alejandro Melgar\source\repos\RomanNumeralConverter\obj\Debug\netcoreapp3.1\RomanNumeralConverter.genruntimeconfig.cache
