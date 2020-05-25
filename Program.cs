@@ -17,23 +17,21 @@ namespace RomanNumeralConverter
                 for (int i = digits.Count() - 1; i >= 0; i--)//start at the end of the digits array and descend to first entry
                 {
                     if (number / digits[i] >= 1)//check to see if number will be smaller than value at digits[i] 
-                    {//if it is then subtract you can subtract value at digits[i] from number 
-                        /*Console.WriteLine("Before: {0}", number);*/
+                    {
+                        //if it is then subtract you can subtract value at digits[i] from number 
                         number -= digits[i];
-                        /*Console.WriteLine("After: {0}", number);*/
-                        //returnString.Append(romanVals[i]);
                         test = test + romanVals[i];
                         //add string to final string
                         break;
                     }
                 }
             }
-            //Console.WriteLine("This is the test string {0}",test);
-            return test;//returnString.ToString(); 
+            return test;
         }
     }
     class Program
     {
+        //calls IntToRoman and asks user to give input
         static void Main(string[] args)
         {
             string value = "";
@@ -50,8 +48,6 @@ namespace RomanNumeralConverter
                 Console.WriteLine("Do you wish to exit?(y/n): ");
                 leave = Console.ReadLine();
             }
-            
-            /*Console.WriteLine("Hello World!");*/
         }
     }
 }
